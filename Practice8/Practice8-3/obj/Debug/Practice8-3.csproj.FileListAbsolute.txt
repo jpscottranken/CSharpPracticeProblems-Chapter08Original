@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\CSharpPracticeProblems-Chapter08\Practice8\Practice8-3\bin\Debug\Practice8-3.exe.config
+C:\Users\jpscott\Desktop\CSharpPracticeProblems-Chapter08\Practice8\Practice8-3\bin\Debug\Practice8-3.exe
+C:\Users\jpscott\Desktop\CSharpPracticeProblems-Chapter08\Practice8\Practice8-3\bin\Debug\Practice8-3.pdb
+C:\Users\jpscott\Desktop\CSharpPracticeProblems-Chapter08\Practice8\Practice8-3\obj\Debug\Practice8-3.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\CSharpPracticeProblems-Chapter08\Practice8\Practice8-3\obj\Debug\Practice8_3.frmLetterCounter.resources
+C:\Users\jpscott\Desktop\CSharpPracticeProblems-Chapter08\Practice8\Practice8-3\obj\Debug\Practice8_3.Properties.Resources.resources
+C:\Users\jpscott\Desktop\CSharpPracticeProblems-Chapter08\Practice8\Practice8-3\obj\Debug\Practice8-3.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\CSharpPracticeProblems-Chapter08\Practice8\Practice8-3\obj\Debug\Practice8-3.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\CSharpPracticeProblems-Chapter08\Practice8\Practice8-3\obj\Debug\Practice8-3.exe
+C:\Users\jpscott\Desktop\CSharpPracticeProblems-Chapter08\Practice8\Practice8-3\obj\Debug\Practice8-3.pdb
